@@ -1,0 +1,13 @@
+{
+  "name": "AnimeStream",
+  "short_name": "AnimeStream",
+  "description": "Discover anime and keep your watch progress on this device.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#08090b",
+  "theme_color": "#08090b",
+  "icons": [
+    { "src": "/app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
